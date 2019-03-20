@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Methods",
+    "Elections and Democratization",
+    "Data Visualization",
+    "Social Network Time Series"
   ]
 
 # List your qualifications (such as academic degrees).
